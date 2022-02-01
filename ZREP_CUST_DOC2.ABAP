@@ -4426,7 +4426,7 @@ CLASS zloc_cl_spro_doc_loader IMPLEMENTATION.
 
 *
 
-* Korrektur f・ Tabellen vor Aufz臧lungen
+* Korrektur fﾂ・ Tabellen vor Aufzﾃ､hlungen
 
 *
 
@@ -4476,7 +4476,7 @@ CLASS zloc_cl_spro_doc_loader IMPLEMENTATION.
 
 *
 
-* Korrektur f・ Folgezeilen in Tabellen.
+* Korrektur fﾂ・ Folgezeilen in Tabellen.
 
 *
 
